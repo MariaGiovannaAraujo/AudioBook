@@ -1,0 +1,21 @@
+body {
+    background-image: linear-gradient (#3b1566, #5f4da8);
+    height: 100vh;
+    color: #d6d6ea;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.music-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    background-color: inherit;
+    color: inherit;
+    border: none;
+}
